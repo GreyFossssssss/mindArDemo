@@ -1,0 +1,8 @@
+{
+    "name": "tl-machine-learning",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "dev": "vue-cli-service serve",
+    }
+}
